@@ -1,4 +1,4 @@
-# anonymous-scanning-log-retrieval
+# Anonymous Scanning & Log Retrieval
 
 1. Installations and Anonymity Check.
 i) Install the needed applications.
